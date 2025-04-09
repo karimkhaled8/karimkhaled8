@@ -44,15 +44,20 @@
 
 ## 🧠 Projects I’m Proud Of
 
-- 🔗 [**E-Commerce System (Angular + .NET API)**](https://github.com/yourname/ecommerce-api)
-  - Clean architecture: Repository ➡️ Service ➡️ Controller
-  - Admin panel, order tracking, shipping, JWT auth
+- 🔗 [**E-Commerce System – Frontend**](https://github.com/Habosa162/EcommerceFE)
+  - Built with Angular + Bootstrap + Animation.css
+  - Admin-only dashboard for managing products and orders
 
-- 🔗 [**LMS Platform (ASP.NET MVC)**](https://github.com/yourname/lms-mvc)
+- 🔗 [**E-Commerce System – Backend**](https://github.com/Habosa162/EcommerceBE)
+  - ASP.NET Core Web API with Clean Architecture
+  - Repository ➡️ Service ➡️ Controller pattern
+  - Role-based authentication (JWT) + Order processing + AWS S3 integration
+
+- 🔗 [**LMS Platform (ASP.NET MVC)**](https://github.com/M0stafaSamir/LearingManagementSystem)
   - Role-based (Admin, Instructor, Student)
   - Course enrollment, reviews, dashboards
 
-- 🔗 [**Gym Community API**](https://github.com/yourname/gym-api)
+- 🔗 [**Gym Community API**](https://github.com/karimkhaled8/GymCommunity)
   - Personal trainers, gym subscriptions, e-commerce shop
   - Multi-role auth + modular scalable backend
 
@@ -60,7 +65,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KarimKhaled-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karimkhaled881/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KarimKhaled-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karimkhaledd/)
 [![Email](https://img.shields.io/badge/Gmail-karim.khaled@example.com-red?style=flat&logo=gmail)](mailto:karimkhaled881@gmail.com)
 
 ---
@@ -68,6 +73,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimkhaled&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimkhaled&layout=compact&theme=radical" width="375" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karimkhaled8&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimkhaled8&layout=compact&theme=radical" width="375" />
 </p>
