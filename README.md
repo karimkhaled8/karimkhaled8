@@ -1,17 +1,73 @@
-<h1 align="center">Hi 👋, I'm karim khaled</h1>
-<h3 align="center">Software Engineer | .NET Developer</h3>
+<h1 align="center">Hi 👋, I'm Karim Khaled</h1>
+<h3 align="center">Full Stack .NET Developer | Angular | ASP.NET Core | ITI Graduate</h3>
 
-- 🔭 I’m currently working on **innovative web application as part of my graduation project for the ITI Full Stack .NET track**
-
-- 🌱 I’m currently learning **I’m currently learning advanced Full Stack Web Development with .NET and Angular as part of my ITI scholarship. I’m focusing on building scalable web applications, developing and integrating RESTful APIs using .NET Core, and optimizing database interactions with Entity Framework. Additionally, I’m enhancing my front-end development skills with Angular.**
-
-- 📫 How to reach me **karimkhaled881@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/karimkhaledd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/karimkhaledd" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+Full+Stack+Developer;Building+modern+web+apps;Let's+code+together!&center=true&width=500" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+- 🎓 I'm a graduate of the **ITI 4-month Full Stack .NET track**  
+- 👨‍💻 I build **modern web applications** using Angular + ASP.NET Core
+- 📦 I follow **clean architecture**, using **Repository-Service-Controller** patterns
+- 🔐 Experienced in **Identity, JWT, and role-based authorization**
+- 💼 Actively looking for opportunities as a **.NET Web Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat)
+
+**Database:**
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & Others:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🧠 Projects I’m Proud Of
+
+- 🔗 [**E-Commerce System (Angular + .NET API)**](https://github.com/yourname/ecommerce-api)
+  - Clean architecture: Repository ➡️ Service ➡️ Controller
+  - Admin panel, order tracking, shipping, JWT auth
+
+- 🔗 [**LMS Platform (ASP.NET MVC)**](https://github.com/yourname/lms-mvc)
+  - Role-based (Admin, Instructor, Student)
+  - Course enrollment, reviews, dashboards
+
+- 🔗 [**Gym Community API**](https://github.com/yourname/gym-api)
+  - Personal trainers, gym subscriptions, e-commerce shop
+  - Multi-role auth + modular scalable backend
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KarimKhaled-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karimkhaled881/)
+[![Email](https://img.shields.io/badge/Gmail-karim.khaled@example.com-red?style=flat&logo=gmail)](mailto:karimkhaled881@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimkhaled&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimkhaled&layout=compact&theme=radical" width="375" />
+</p>
