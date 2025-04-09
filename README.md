@@ -66,7 +66,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KarimKhaled-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karimkhaledd/)
-[![Email](https://img.shields.io/badge/Gmail-karim.khaled@example.com-red?style=flat&logo=gmail)](mailto:karimkhaled881@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-karimkhaled881@gmail.com-red?style=flat&logo=gmail)](mailto:karimkhaled881@gmail.com)
 
 ---
 
