@@ -57,7 +57,7 @@
   - Role-based (Admin, Instructor, Student)
   - Course enrollment, reviews, dashboards
 
-- 🔗 [**Gym Community API**](https://github.com/karimkhaled8/GymCommunity)
+- 🔗 [**Gym Community**](https://github.com/karimkhaled8/GymCommunity)
   - Personal trainers, gym subscriptions, e-commerce shop
   - Multi-role auth + modular scalable backend
 
